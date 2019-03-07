@@ -1,0 +1,18 @@
+body {
+    background: radial-gradient(orange, blue);
+}
+
+.redText {
+    color: red;
+    text-align: center;
+}
+
+.yellowText {
+    color: yellow;
+    text-align: center; 
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
